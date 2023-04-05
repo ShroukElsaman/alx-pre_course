@@ -1,3 +1,6 @@
 !/bin/bash
 echo "The school is open!
+<<<<<<< HEAD
 
+=======
+>>>>>>> 56c54066980c718a09017dac4bdf773a12fed9a4
